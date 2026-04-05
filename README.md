@@ -118,6 +118,20 @@ Using a mutex would ensure that only one car can attempt to park at any given ti
    * Limited Concurrency: Only one car can park at a time, potentially reducing throughput.
    * Potential for Bottlenecks: Can create a bottleneck if many cars are trying to park simultaneously, leading to increased waiting times.
 
+## Screenshots
+
+<p align="center">
+  <img src="/images/ss1.png" width="300"/>
+  <img src="/images/ss2.png" width="300"/>
+  <img src="/images/ss3.png" width="300"/>
+</p>
+
+<p align="center">
+  <img src="/images/ss4.png" width="300"/>
+  <img src="/images/ss5.png" width="300"/>
+  <img src="/images/ss6.png" width="300"/>
+</p>
+
 ## Conclusion:
 
 The choice between Semaphore and Mutex in the parking simulator depends on your specific requirements and constraints:
