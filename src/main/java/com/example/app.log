@@ -1,0 +1,94 @@
+Jun 11, 2024 2:09:26 PM com.example.parkkkk.Parking <init>
+INFO: Fichier journalisation configure avec succes
+Jun 11, 2024 2:09:28 PM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 5 essaie de stationner
+Jun 11, 2024 2:09:28 PM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 5 a stationne !
+Jun 11, 2024 2:09:28 PM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 5 : 2 millisecondes
+Jun 11, 2024 2:09:28 PM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 7 essaie de stationner
+Jun 11, 2024 2:09:28 PM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 7 a stationne !
+Jun 11, 2024 2:09:28 PM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 7 : 2 millisecondes
+Jun 11, 2024 2:09:29 PM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 4 essaie de stationner
+Jun 11, 2024 2:09:29 PM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 4 a stationne !
+Jun 11, 2024 2:09:29 PM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 4 : 2 millisecondes
+Jun 11, 2024 2:09:29 PM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 0 essaie de stationner
+Jun 11, 2024 2:09:29 PM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 0 a stationne !
+Jun 11, 2024 2:09:29 PM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 0 : 1 millisecondes
+Jun 11, 2024 2:09:29 PM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 6 essaie de stationner
+Jun 11, 2024 2:09:29 PM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 6 a stationne !
+Jun 11, 2024 2:09:29 PM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 6 : 1 millisecondes
+Jun 11, 2024 2:09:30 PM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 9 essaie de stationner
+Jun 11, 2024 2:09:30 PM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 9 a stationne !
+Jun 11, 2024 2:09:30 PM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 9 : 2 millisecondes
+Jun 11, 2024 2:09:30 PM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 2 essaie de stationner
+Jun 11, 2024 2:09:30 PM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 2 a stationne !
+Jun 11, 2024 2:09:30 PM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 2 : 2 millisecondes
+Jun 11, 2024 2:09:30 PM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 3 essaie de stationner
+Jun 11, 2024 2:09:30 PM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 3 a stationne !
+Jun 11, 2024 2:09:30 PM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 3 : 2 millisecondes
+Jun 11, 2024 2:09:30 PM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 8 essaie de stationner
+Jun 11, 2024 2:09:30 PM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 8 a stationne !
+Jun 11, 2024 2:09:30 PM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 8 : 2 millisecondes
+Jun 11, 2024 2:09:31 PM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 1 essaie de stationner
+Jun 11, 2024 2:09:31 PM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 1 a stationne !
+Jun 11, 2024 2:09:31 PM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 1 : 2 millisecondes
+Jun 11, 2024 2:09:34 PM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 7 essaie de sortir
+Jun 11, 2024 2:09:34 PM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 0 essaie de sortir
+Jun 11, 2024 2:09:34 PM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 5 essaie de sortir
+Jun 11, 2024 2:09:35 PM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 4 essaie de sortir
+Jun 11, 2024 2:09:35 PM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 9 essaie de sortir
+Jun 11, 2024 2:09:35 PM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 5 a sorti !
+Jun 11, 2024 2:09:36 PM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 2 essaie de sortir
+Jun 11, 2024 2:09:36 PM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 9 a sorti !
+Jun 11, 2024 2:09:36 PM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 7 a sorti !
+Jun 11, 2024 2:09:36 PM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 6 essaie de sortir
+Jun 11, 2024 2:09:37 PM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 8 essaie de sortir
+Jun 11, 2024 2:09:37 PM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 3 essaie de sortir
+Jun 11, 2024 2:09:38 PM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 1 essaie de sortir
+Jun 11, 2024 2:09:38 PM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 4 a sorti !
+Jun 11, 2024 2:09:38 PM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 2 a sorti !
+Jun 11, 2024 2:09:38 PM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 0 a sorti !

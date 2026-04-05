@@ -1,0 +1,482 @@
+Jun 11, 2024 1:25:05 AM com.example.parkkkk.Parking <init>
+INFO: Fichier journalisation configuré avec succès
+Jun 11, 2024 1:25:07 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 39 essaie de stationner
+Jun 11, 2024 1:25:07 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 39 a stationné !
+Jun 11, 2024 1:25:07 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 39 : 7 millisecondes
+Jun 11, 2024 1:25:07 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 14 essaie de stationner
+Jun 11, 2024 1:25:07 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 14 a stationné !
+Jun 11, 2024 1:25:07 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 14 : 2 millisecondes
+Jun 11, 2024 1:25:07 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 2 essaie de stationner
+Jun 11, 2024 1:25:07 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 2 a stationné !
+Jun 11, 2024 1:25:07 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 2 : 4 millisecondes
+Jun 11, 2024 1:25:07 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 10 essaie de stationner
+Jun 11, 2024 1:25:07 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 29 essaie de stationner
+Jun 11, 2024 1:25:07 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 10 a stationné !
+Jun 11, 2024 1:25:07 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 29 a stationné !
+Jun 11, 2024 1:25:07 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 10 : 7 millisecondes
+Jun 11, 2024 1:25:07 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 29 : 8 millisecondes
+Jun 11, 2024 1:25:07 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 36 essaie de stationner
+Jun 11, 2024 1:25:07 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 36 a stationné !
+Jun 11, 2024 1:25:07 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 36 : 3 millisecondes
+Jun 11, 2024 1:25:07 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 26 essaie de stationner
+Jun 11, 2024 1:25:07 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 26 a stationné !
+Jun 11, 2024 1:25:07 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 26 : 3 millisecondes
+Jun 11, 2024 1:25:08 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 24 essaie de stationner
+Jun 11, 2024 1:25:08 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 24 a stationné !
+Jun 11, 2024 1:25:08 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 24 : 3 millisecondes
+Jun 11, 2024 1:25:08 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 27 essaie de stationner
+Jun 11, 2024 1:25:08 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 27 a stationné !
+Jun 11, 2024 1:25:08 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 27 : 2 millisecondes
+Jun 11, 2024 1:25:08 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 33 essaie de stationner
+Jun 11, 2024 1:25:08 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 33 a stationné !
+Jun 11, 2024 1:25:08 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 33 : 2 millisecondes
+Jun 11, 2024 1:25:08 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 17 essaie de stationner
+Jun 11, 2024 1:25:08 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 17 a stationné !
+Jun 11, 2024 1:25:08 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 17 : 2 millisecondes
+Jun 11, 2024 1:25:08 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 0 essaie de stationner
+Jun 11, 2024 1:25:08 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 1 essaie de stationner
+Jun 11, 2024 1:25:08 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 3 essaie de stationner
+Jun 11, 2024 1:25:08 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 4 essaie de stationner
+Jun 11, 2024 1:25:08 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 12 essaie de stationner
+Jun 11, 2024 1:25:08 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 7 essaie de stationner
+Jun 11, 2024 1:25:08 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 13 essaie de stationner
+Jun 11, 2024 1:25:08 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 35 essaie de stationner
+Jun 11, 2024 1:25:08 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 30 essaie de stationner
+Jun 11, 2024 1:25:08 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 22 essaie de stationner
+Jun 11, 2024 1:25:09 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 23 essaie de stationner
+Jun 11, 2024 1:25:09 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 6 essaie de stationner
+Jun 11, 2024 1:25:09 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 21 essaie de stationner
+Jun 11, 2024 1:25:09 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 32 essaie de stationner
+Jun 11, 2024 1:25:09 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 5 essaie de stationner
+Jun 11, 2024 1:25:09 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 11 essaie de stationner
+Jun 11, 2024 1:25:09 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 16 essaie de stationner
+Jun 11, 2024 1:25:09 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 25 essaie de stationner
+Jun 11, 2024 1:25:09 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 9 essaie de stationner
+Jun 11, 2024 1:25:09 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 19 essaie de stationner
+Jun 11, 2024 1:25:09 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 31 essaie de stationner
+Jun 11, 2024 1:25:10 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 38 essaie de stationner
+Jun 11, 2024 1:25:10 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 8 essaie de stationner
+Jun 11, 2024 1:25:10 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 28 essaie de stationner
+Jun 11, 2024 1:25:10 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 18 essaie de stationner
+Jun 11, 2024 1:25:10 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 20 essaie de stationner
+Jun 11, 2024 1:25:10 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 34 essaie de stationner
+Jun 11, 2024 1:25:10 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 15 essaie de stationner
+Jun 11, 2024 1:25:10 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 37 essaie de stationner
+Jun 11, 2024 1:25:13 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 36 essaie de sortir
+Jun 11, 2024 1:25:13 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 24 essaie de sortir
+Jun 11, 2024 1:25:13 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 27 essaie de sortir
+Jun 11, 2024 1:25:13 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 26 essaie de sortir
+Jun 11, 2024 1:25:13 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 2 essaie de sortir
+Jun 11, 2024 1:25:13 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 14 essaie de sortir
+Jun 11, 2024 1:25:13 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 17 essaie de sortir
+Jun 11, 2024 1:25:14 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 36 a sorti !
+Jun 11, 2024 1:25:14 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 0 a stationné !
+Jun 11, 2024 1:25:14 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 36 : 1005 millisecondes
+Jun 11, 2024 1:25:14 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 0 : 5956 millisecondes
+Jun 11, 2024 1:25:14 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 39 essaie de sortir
+Jun 11, 2024 1:25:14 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 10 essaie de sortir
+Jun 11, 2024 1:25:14 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 29 essaie de sortir
+Jun 11, 2024 1:25:14 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 33 essaie de sortir
+Jun 11, 2024 1:25:14 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 17 a sorti !
+Jun 11, 2024 1:25:14 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 17 : 1003 millisecondes
+Jun 11, 2024 1:25:14 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 1 a stationné !
+Jun 11, 2024 1:25:14 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 1 : 6635 millisecondes
+Jun 11, 2024 1:25:15 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 26 a sorti !
+Jun 11, 2024 1:25:15 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 26 : 2002 millisecondes
+Jun 11, 2024 1:25:15 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 3 a stationné !
+Jun 11, 2024 1:25:15 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 3 : 6884 millisecondes
+Jun 11, 2024 1:25:15 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 39 a sorti !
+Jun 11, 2024 1:25:15 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 39 : 1003 millisecondes
+Jun 11, 2024 1:25:15 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 4 a stationné !
+Jun 11, 2024 1:25:15 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 4 : 6803 millisecondes
+Jun 11, 2024 1:25:15 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 14 a sorti !
+Jun 11, 2024 1:25:15 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 14 : 2002 millisecondes
+Jun 11, 2024 1:25:15 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 12 a stationné !
+Jun 11, 2024 1:25:15 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 12 : 7002 millisecondes
+Jun 11, 2024 1:25:16 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 24 a sorti !
+Jun 11, 2024 1:25:16 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 24 : 3004 millisecondes
+Jun 11, 2024 1:25:16 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 7 a stationné !
+Jun 11, 2024 1:25:16 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 7 : 7423 millisecondes
+Jun 11, 2024 1:25:16 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 2 a sorti !
+Jun 11, 2024 1:25:16 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 2 : 3002 millisecondes
+Jun 11, 2024 1:25:16 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 13 a stationné !
+Jun 11, 2024 1:25:16 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 13 : 7603 millisecondes
+Jun 11, 2024 1:25:17 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 27 a sorti !
+Jun 11, 2024 1:25:17 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 27 : 4003 millisecondes
+Jun 11, 2024 1:25:17 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 35 a stationné !
+Jun 11, 2024 1:25:17 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 35 : 8407 millisecondes
+Jun 11, 2024 1:25:18 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 10 a sorti !
+Jun 11, 2024 1:25:18 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 10 : 4002 millisecondes
+Jun 11, 2024 1:25:18 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 30 a stationné !
+Jun 11, 2024 1:25:18 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 30 : 9587 millisecondes
+Jun 11, 2024 1:25:19 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 29 a sorti !
+Jun 11, 2024 1:25:19 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 29 : 5003 millisecondes
+Jun 11, 2024 1:25:19 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 22 a stationné !
+Jun 11, 2024 1:25:19 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 22 : 10690 millisecondes
+Jun 11, 2024 1:25:19 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 0 essaie de sortir
+Jun 11, 2024 1:25:19 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 33 a sorti !
+Jun 11, 2024 1:25:19 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 33 : 5003 millisecondes
+Jun 11, 2024 1:25:19 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 23 a stationné !
+Jun 11, 2024 1:25:19 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 23 : 10849 millisecondes
+Jun 11, 2024 1:25:20 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 1 essaie de sortir
+Jun 11, 2024 1:25:20 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 4 essaie de sortir
+Jun 11, 2024 1:25:20 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 0 a sorti !
+Jun 11, 2024 1:25:20 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 0 : 1002 millisecondes
+Jun 11, 2024 1:25:20 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 6 a stationné !
+Jun 11, 2024 1:25:20 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 6 : 11622 millisecondes
+Jun 11, 2024 1:25:21 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 1 a sorti !
+Jun 11, 2024 1:25:21 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 1 : 1002 millisecondes
+Jun 11, 2024 1:25:21 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 21 a stationné !
+Jun 11, 2024 1:25:21 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 21 : 12386 millisecondes
+Jun 11, 2024 1:25:21 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 4 a sorti !
+Jun 11, 2024 1:25:21 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 4 : 1002 millisecondes
+Jun 11, 2024 1:25:21 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 32 a stationné !
+Jun 11, 2024 1:25:21 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 32 : 12582 millisecondes
+Jun 11, 2024 1:25:21 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 3 essaie de sortir
+Jun 11, 2024 1:25:22 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 12 essaie de sortir
+Jun 11, 2024 1:25:22 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 13 essaie de sortir
+Jun 11, 2024 1:25:23 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 7 essaie de sortir
+Jun 11, 2024 1:25:23 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 3 a sorti !
+Jun 11, 2024 1:25:23 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 3 : 2001 millisecondes
+Jun 11, 2024 1:25:23 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 5 a stationné !
+Jun 11, 2024 1:25:23 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 5 : 14630 millisecondes
+Jun 11, 2024 1:25:24 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 35 essaie de sortir
+Jun 11, 2024 1:25:24 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 12 a sorti !
+Jun 11, 2024 1:25:24 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 12 : 2002 millisecondes
+Jun 11, 2024 1:25:24 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 11 a stationné !
+Jun 11, 2024 1:25:24 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 11 : 15030 millisecondes
+Jun 11, 2024 1:25:24 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 30 essaie de sortir
+Jun 11, 2024 1:25:25 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 22 essaie de sortir
+Jun 11, 2024 1:25:25 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 13 a sorti !
+Jun 11, 2024 1:25:25 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 13 : 3003 millisecondes
+Jun 11, 2024 1:25:25 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 16 a stationné !
+Jun 11, 2024 1:25:25 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 16 : 15679 millisecondes
+Jun 11, 2024 1:25:25 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 23 essaie de sortir
+Jun 11, 2024 1:25:26 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 7 a sorti !
+Jun 11, 2024 1:25:26 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 7 : 3003 millisecondes
+Jun 11, 2024 1:25:26 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 25 a stationné !
+Jun 11, 2024 1:25:26 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 25 : 16220 millisecondes
+Jun 11, 2024 1:25:26 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 6 essaie de sortir
+Jun 11, 2024 1:25:27 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 21 essaie de sortir
+Jun 11, 2024 1:25:27 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 6 a sorti !
+Jun 11, 2024 1:25:27 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 6 : 1002 millisecondes
+Jun 11, 2024 1:25:27 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 9 a stationné !
+Jun 11, 2024 1:25:27 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 9 : 17496 millisecondes
+Jun 11, 2024 1:25:28 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 35 a sorti !
+Jun 11, 2024 1:25:28 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 35 : 4002 millisecondes
+Jun 11, 2024 1:25:28 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 19 a stationné !
+Jun 11, 2024 1:25:28 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 19 : 18138 millisecondes
+Jun 11, 2024 1:25:28 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 21 a sorti !
+Jun 11, 2024 1:25:28 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 21 : 1002 millisecondes
+Jun 11, 2024 1:25:28 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 31 a stationné !
+Jun 11, 2024 1:25:28 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 31 : 18364 millisecondes
+Jun 11, 2024 1:25:28 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 32 essaie de sortir
+Jun 11, 2024 1:25:28 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 30 a sorti !
+Jun 11, 2024 1:25:28 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 30 : 4001 millisecondes
+Jun 11, 2024 1:25:28 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 38 a stationné !
+Jun 11, 2024 1:25:28 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 38 : 18495 millisecondes
+Jun 11, 2024 1:25:29 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 32 a sorti !
+Jun 11, 2024 1:25:29 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 32 : 1002 millisecondes
+Jun 11, 2024 1:25:29 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 8 a stationné !
+Jun 11, 2024 1:25:29 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 8 : 19396 millisecondes
+Jun 11, 2024 1:25:29 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 11 essaie de sortir
+Jun 11, 2024 1:25:30 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 5 essaie de sortir
+Jun 11, 2024 1:25:30 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 22 a sorti !
+Jun 11, 2024 1:25:30 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 22 : 5002 millisecondes
+Jun 11, 2024 1:25:30 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 28 a stationné !
+Jun 11, 2024 1:25:30 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 28 : 20007 millisecondes
+Jun 11, 2024 1:25:30 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 23 a sorti !
+Jun 11, 2024 1:25:30 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 23 : 5004 millisecondes
+Jun 11, 2024 1:25:30 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 18 a stationné !
+Jun 11, 2024 1:25:30 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 18 : 20349 millisecondes
+Jun 11, 2024 1:25:30 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 16 essaie de sortir
+Jun 11, 2024 1:25:31 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 11 a sorti !
+Jun 11, 2024 1:25:31 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 11 : 2002 millisecondes
+Jun 11, 2024 1:25:31 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 20 a stationné !
+Jun 11, 2024 1:25:31 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 20 : 21119 millisecondes
+Jun 11, 2024 1:25:32 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 5 a sorti !
+Jun 11, 2024 1:25:32 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 5 : 2003 millisecondes
+Jun 11, 2024 1:25:32 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 34 a stationné !
+Jun 11, 2024 1:25:32 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 34 : 21509 millisecondes
+Jun 11, 2024 1:25:32 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 25 essaie de sortir
+Jun 11, 2024 1:25:33 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 9 essaie de sortir
+Jun 11, 2024 1:25:33 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 16 a sorti !
+Jun 11, 2024 1:25:33 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 16 : 3001 millisecondes
+Jun 11, 2024 1:25:33 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 15 a stationné !
+Jun 11, 2024 1:25:33 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 15 : 23289 millisecondes
+Jun 11, 2024 1:25:33 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 19 essaie de sortir
+Jun 11, 2024 1:25:34 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 9 a sorti !
+Jun 11, 2024 1:25:34 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 9 : 1002 millisecondes
+Jun 11, 2024 1:25:34 AM com.example.parkkkk.Parking stationner
+INFO: La voiture Ford 37 a stationné !
+Jun 11, 2024 1:25:34 AM com.example.parkkkk.Parking stationner
+INFO: Temps d'attente pour la voiture Ford 37 : 23684 millisecondes
+Jun 11, 2024 1:25:34 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 38 essaie de sortir
+Jun 11, 2024 1:25:34 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 8 essaie de sortir
+Jun 11, 2024 1:25:34 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 31 essaie de sortir
+Jun 11, 2024 1:25:35 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 8 a sorti !
+Jun 11, 2024 1:25:35 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 8 : 1001 millisecondes
+Jun 11, 2024 1:25:35 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 25 a sorti !
+Jun 11, 2024 1:25:35 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 25 : 3003 millisecondes
+Jun 11, 2024 1:25:35 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 31 a sorti !
+Jun 11, 2024 1:25:35 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 31 : 1001 millisecondes
+Jun 11, 2024 1:25:35 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 28 essaie de sortir
+Jun 11, 2024 1:25:36 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 18 essaie de sortir
+Jun 11, 2024 1:25:37 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 20 essaie de sortir
+Jun 11, 2024 1:25:37 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 19 a sorti !
+Jun 11, 2024 1:25:37 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 19 : 4002 millisecondes
+Jun 11, 2024 1:25:38 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 38 a sorti !
+Jun 11, 2024 1:25:38 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 38 : 4004 millisecondes
+Jun 11, 2024 1:25:38 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 34 essaie de sortir
+Jun 11, 2024 1:25:39 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 20 a sorti !
+Jun 11, 2024 1:25:39 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 20 : 2004 millisecondes
+Jun 11, 2024 1:25:40 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 37 essaie de sortir
+Jun 11, 2024 1:25:40 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 15 essaie de sortir
+Jun 11, 2024 1:25:40 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 34 a sorti !
+Jun 11, 2024 1:25:40 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 34 : 2001 millisecondes
+Jun 11, 2024 1:25:40 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 28 a sorti !
+Jun 11, 2024 1:25:40 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 28 : 5003 millisecondes
+Jun 11, 2024 1:25:41 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 37 a sorti !
+Jun 11, 2024 1:25:41 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 37 : 1003 millisecondes
+Jun 11, 2024 1:25:41 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 18 a sorti !
+Jun 11, 2024 1:25:41 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 18 : 5001 millisecondes
+Jun 11, 2024 1:25:43 AM com.example.parkkkk.Parking sortir
+INFO: La voiture Ford 15 a sorti !
+Jun 11, 2024 1:25:43 AM com.example.parkkkk.Parking sortir
+INFO: Temps d'attente pour la voiture Ford 15 : 3001 millisecondes
